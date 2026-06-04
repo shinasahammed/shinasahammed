@@ -111,11 +111,12 @@ class ShinasAhammed {
 
 ---
 
+
 ## 🏆 Trophy Wall
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinasahammed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/shinasahammed)
+<img src="https://github-profile-trophy-one.vercel.app/?username=shinasahammed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
