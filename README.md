@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Shinas Ahammed K — Flutter Developer" />
+<img src="background.svg" width="100%" alt="Shinas Ahammed K — Flutter Developer" />
 
 <br/>
 
@@ -11,32 +11,32 @@
 
 <br/><br/>
 
-<img src="assets/sec-about.svg" width="100%" alt="About me" />
-<img src="assets/terminal.svg" width="100%" alt="Terminal: about Shinas" />
+<img src="sec-about.svg" width="100%" alt="About me" />
+<img src="terminal.svg" width="100%" alt="Terminal: about Shinas" />
 <br/><br/>
-<img src="assets/metrics.svg" width="100%" alt="Key numbers" />
+<img src="metrics.svg" width="100%" alt="Key numbers" />
 
 <br/>
 
-<img src="assets/sec-stack.svg" width="100%" alt="Tech stack" />
-<img src="assets/skills.svg" width="100%" alt="Scrolling tech stack: Flutter, Dart, Riverpod, GetX, REST APIs, JWT, Firebase, Python, Django, PostgreSQL, MySQL, Git, Power BI" />
+<img src="sec-stack.svg" width="100%" alt="Tech stack" />
+<img src="skills.svg" width="100%" alt="Scrolling tech stack: Flutter, Dart, Riverpod, GetX, REST APIs, JWT, Firebase, Python, Django, PostgreSQL, MySQL, Git, Power BI" />
 
 <br/>
 
-<img src="assets/sec-projects.svg" width="100%" alt="Featured projects" />
-<img src="assets/projects.svg" width="100%" alt="WaslaSoft MPOS ERP, Daily Job Finder, Library Management System, Hikvision Middleware" />
+<img src="sec-projects.svg" width="100%" alt="Featured projects" />
+<img src="projects.svg" width="100%" alt="WaslaSoft MPOS ERP, Daily Job Finder, Library Management System, Hikvision Middleware" />
 
 <br/>
 
-<img src="assets/sec-journey.svg" width="100%" alt="Journey" />
-<img src="assets/timeline.svg" width="100%" alt="Timeline: Sysbreez Technologies, Febno Technologies, Technodot Academy, MG University BCA" />
+<img src="sec-journey.svg" width="100%" alt="Journey" />
+<img src="timeline.svg" width="100%" alt="Timeline: Sysbreez Technologies, Febno Technologies, Technodot Academy, MG University BCA" />
 
 <br/>
 
-<img src="assets/sec-pulse.svg" width="100%" alt="GitHub pulse" />
+<img src="sec-pulse.svg" width="100%" alt="GitHub pulse" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shinasahammed&show_icons=true&hide_border=false&border_color=1F2937&border_radius=18&bg_color=0A0A0F&title_color=5EF2C0&icon_color=60A5FA&text_color=E5E7EB&ring_color=F472B6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shinasahammed&layout=compact&hide_border=false&border_color=1F2937&border_radius=18&bg_color=0A0A0F&title_color=5EF2C0&text_color=E5E7EB&langs_count=8" alt="Top languages" />
+<a href="https://github.com/shinasahammed?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-0A0A0F?style=for-the-badge&logo=github&logoColor=5EF2C0&labelColor=0A0A0F&color=1F2937" alt="Explore my repositories" /></a>
+<a href="https://github.com/shinasahammed?tab=stars"><img src="https://img.shields.io/badge/View-My%20Stars-0A0A0F?style=for-the-badge&logo=github&logoColor=F472B6&labelColor=0A0A0F&color=1F2937" alt="View my stars" /></a>
 
 <br/>
 
@@ -48,6 +48,6 @@
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Let's build something useful — shinasahammed93@gmail.com" />
+<img src="footer.svg" width="100%" alt="Let's build something useful — shinasahammed93@gmail.com" />
 
 </div>
